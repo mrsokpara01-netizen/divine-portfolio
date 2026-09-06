@@ -82,6 +82,22 @@ const PROJECTS = [
     stack: 'React · TypeScript · Motion',
     status: 'shipped',
   },
+  {
+    title: 'Sparkles Jewelleries',
+    type: 'Luxury Jewellery Experience',
+    image: '/project-sparkles-jewelleries.png',
+    url: 'https://sparkles-jewelleries.vercel.app',
+    stack: 'HTML · CSS · JavaScript',
+    status: 'shipped',
+  },
+  {
+    title: 'Royal Triple Dee College',
+    type: 'School Website & Result Portal',
+    image: '/project-royal-triple-dee.png',
+    url: 'https://royal-triple-dee-college.vercel.app',
+    stack: 'HTML · CSS · JavaScript',
+    status: 'shipped',
+  },
 ];
 const FILES = {
   'bio.md': {
@@ -371,7 +387,7 @@ export default function Home() {
           </div>
           <div className="stats intro-reveal">
             <div>
-              <b>07+</b>
+              <b>09+</b>
               <span>projects shipped</span>
               <em>↗</em>
             </div>
