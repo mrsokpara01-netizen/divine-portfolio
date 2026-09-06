@@ -64,7 +64,7 @@ const PROJECTS = [
     image: '/project-stronghand.png',
     url: 'https://strong-hand-of-jah.vercel.app',
     stack: 'Next.js · Content Platform',
-    status: 'shipped',
+    status: 'building',
   },
   {
     title: 'Aura',
