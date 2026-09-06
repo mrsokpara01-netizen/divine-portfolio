@@ -74,6 +74,14 @@ const PROJECTS = [
     stack: 'React · Motion · 3D Web',
     status: 'shipped',
   },
+  {
+    title: 'Divine Portfolio',
+    type: 'Personal Developer Portfolio',
+    image: '/project-divine-portfolio-new.png',
+    url: 'https://divine-portfolio-psi.vercel.app',
+    stack: 'React · TypeScript · Motion',
+    status: 'shipped',
+  },
 ];
 const FILES = {
   'bio.md': {
@@ -363,7 +371,7 @@ export default function Home() {
           </div>
           <div className="stats intro-reveal">
             <div>
-              <b>06+</b>
+              <b>07+</b>
               <span>projects shipped</span>
               <em>↗</em>
             </div>
