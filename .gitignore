@@ -31,6 +31,7 @@ yarn-error.log*
 
 # deployment and generated files
 .vercel
+/public/project-divine-portfolio.png
 next-env.d.ts
 /dist/
 /.wrangler/
