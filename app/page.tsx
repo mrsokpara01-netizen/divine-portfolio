@@ -98,6 +98,14 @@ const PROJECTS = [
     stack: 'HTML · CSS · JavaScript',
     status: 'shipped',
   },
+  {
+    title: 'Taper & Co.',
+    type: 'Premium Barber Booking Experience',
+    image: '/project-taper-co.png',
+    url: 'https://premium-barber-site.vercel.app',
+    stack: 'Next.js · Booking · Responsive UI',
+    status: 'shipped',
+  },
 ];
 const FILES = {
   'bio.md': {
@@ -387,7 +395,7 @@ export default function Home() {
           </div>
           <div className="stats intro-reveal">
             <div>
-              <b>09+</b>
+              <b>10+</b>
               <span>projects shipped</span>
               <em>↗</em>
             </div>
