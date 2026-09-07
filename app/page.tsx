@@ -106,6 +106,14 @@ const PROJECTS = [
     stack: 'Next.js · Booking · Responsive UI',
     status: 'shipped',
   },
+  {
+    title: 'Stonecrest Construction',
+    type: 'Construction Company Website',
+    image: '/project-stonecrest.png',
+    url: 'https://stonecrest-construction.vercel.app',
+    stack: 'Next.js · Responsive UI · Quote Flow',
+    status: 'shipped',
+  },
 ];
 const FILES = {
   'bio.md': {
